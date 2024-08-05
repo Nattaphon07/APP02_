@@ -1,4 +1,4 @@
-
+body
 #container {
   text-align: center;
 
@@ -27,11 +27,13 @@
   text-decoration: none;
 }
 .content{
-  background-color:
-   rgb(185, 229, 226);
-  height:100% ;
+ background-color: aqua;
+  height:1500PX ;
   text-align: center;
 }
 .top{
   margin-top: 30%;
+}
+.ion-button{
+  background-color: antiquewhite;
 }
